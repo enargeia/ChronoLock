@@ -31,11 +31,6 @@ ChronoLock allows you to hide, dim, or fade videos newer than a selected cutoff 
 ![ChronoLock UI](screenshots/screenshot3.png)
 
 ---
-Got it — you want the installation section to match the **same visual grammar** as the rest of your README (headers, spacing, bullet style, and clean Markdown rhythm), not a different “instruction manual block.”
-
-Here is the **fully reformatted version consistent with your document style**:
-
----
 
 ## Installation (Firefox)
 
