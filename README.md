@@ -106,4 +106,14 @@ ChronoLock intentionally avoids heavy frameworks and build pipelines in favor of
 
 ---
 
+## Support
+
+If you want to support continued development:
+
+https://ko-fi.com/melanmel
+
+You are under no obligations here, the extension will always be free and open-source.
+
+---
+
 Created by Enargeia.
