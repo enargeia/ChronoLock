@@ -31,6 +31,11 @@ ChronoLock allows you to hide, dim, or fade videos newer than a selected cutoff 
 ![ChronoLock UI](screenshots/screenshot3.png)
 
 ---
+Got it — you want the installation section to match the **same visual grammar** as the rest of your README (headers, spacing, bullet style, and clean Markdown rhythm), not a different “instruction manual block.”
+
+Here is the **fully reformatted version consistent with your document style**:
+
+---
 
 ## Installation (Firefox)
 
@@ -49,13 +54,28 @@ about:debugging#/runtime/this-firefox
 Load Temporary Add-on
 ```
 
-4. Select `manifest.json`
+4. Select `manifest.json` inside the ChronoLock folder
+
+> Temporary installs will be removed when Firefox closes.
 
 ---
 
-### Permanent Install
+### Permanent Install (Recommended)
 
-Install through the Firefox Add-ons page once published.
+Install through Mozilla Add-ons (AMO) once published (pending as of 5/15/26!)
+
+* Survives browser restarts
+* Updates automatically
+* Intended for normal use!
+
+---
+
+### Manual `.xpi` Install (Testing / Advanced ~ Not Yet Available)
+
+* Download the `.xpi` file
+* Open Firefox
+* Drag the `.xpi` into the browser window
+* Confirm installation
 
 ---
 
@@ -76,9 +96,11 @@ chronolock/
 
 ## License
 
-ChronoLock is licensed under the GNU General Public License v3.0 (GPLv3).
+ChronoLock is licensed under the MIT License.
 
-Forks, modifications, and redistribution are welcome, provided derivatives remain open-source under the same license.
+You are free to use, modify, distribute, and sublicense this software, including for commercial use, provided that the original copyright notice and license are included in all copies or substantial portions of the software.
+
+The software is provided “as is”, without warranty of any kind.
 
 ---
 
