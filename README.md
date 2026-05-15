@@ -62,6 +62,7 @@ Load Temporary Add-on
 
 ### Permanent Install (Recommended)
 
+🔗 Install ChronoLock on Firefox: https://addons.mozilla.org/en-US/firefox/addon/chronolock/
 Install through Mozilla Add-ons (AMO) once published (pending as of 5/15/26!)
 
 * Survives browser restarts
