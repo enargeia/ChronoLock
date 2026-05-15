@@ -76,18 +76,15 @@ Install through Mozilla Add-ons (AMO) once published (pending as of 5/15/26!)
 
 ---
 
-## Folder Structure
+## Optional companion extensions
 
-```text
-chronolock/
-├── manifest.json
-├── content.js
-├── LICENSE
-├── README.md
-└── icons/
-    ├── 48.png
-    └── 96.png
-```
+ChronoLock works on its own.
+
+I like to pair it with YouTube Redux to reshape YouTube’s interface and reduce algorithmic noise.
+
+👉 YouTube Redux: https://addons.mozilla.org/en-US/firefox/addon/youtube-redux/
+
+This is not required. It simply changes how the site presents itself, while ChronoLock changes what is allowed to surface.
 
 ---
 
