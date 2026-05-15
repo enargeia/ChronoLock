@@ -1,8 +1,14 @@
 # CHRONOLOCK
 
+<p align="center">
+  <img src="icons/chronolocklogo.png" width="200" />
+</p>
+
 A lightweight Firefox extension for filtering YouTube videos by upload age.
 
 ChronoLock allows you to hide, dim, or fade videos newer than a selected cutoff year, reshaping YouTube into something slower, stranger, and more archival. Built for nostalgia, intentional browsing, old internet archaeology, and resisting the platform’s constant pressure toward recency.
+
+![ChronoLock UI](screenshots/Screenshot1.png)
 
 ---
 
@@ -20,6 +26,9 @@ ChronoLock allows you to hide, dim, or fade videos newer than a selected cutoff 
 * No telemetry
 * No tracking
 * No data collection
+
+![ChronoLock UI](screenshots/screenshot2.png)
+![ChronoLock UI](screenshots/screenshot3.png)
 
 ---
 
