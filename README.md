@@ -34,6 +34,12 @@ ChronoLock allows you to hide, dim, or fade videos newer than a selected cutoff 
 
 ## Installation (Firefox)
 
+### Permanent Install (Recommended)
+
+🔗 Install ChronoLock on Firefox: https://addons.mozilla.org/en-US/firefox/addon/chronolock/
+
+---
+
 ### Temporary Install (Developer Mode)
 
 1. Open Firefox
@@ -52,18 +58,6 @@ Load Temporary Add-on
 4. Select `manifest.json` inside the ChronoLock folder
 
 > Temporary installs will be removed when Firefox closes.
-
----
-
-### Permanent Install (Recommended)
-
-🔗 Install ChronoLock on Firefox: https://addons.mozilla.org/en-US/firefox/addon/chronolock/
-
-Install through Mozilla Add-ons (AMO) once published (pending as of 5/15/26!)
-
-* Survives browser restarts
-* Updates automatically
-* Intended for normal use!
 
 ---
 
